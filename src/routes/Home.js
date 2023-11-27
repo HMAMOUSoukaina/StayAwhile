@@ -1,14 +1,17 @@
 import Navbar from '../components/Navbar'
 import Hero from '../components/Hero'
-import Footer from '../components/Footer';
+import Destination from '../components/Destination'
+import Trip from '../components/Trip'
+import Footer from '../components/Footer'
 function Home(){
     return(
         <>
         <Navbar />
         <Hero />
-        <Footer />
+        <Destination/>
+        <Trip />
+        <Footer/>
         </>
     )
-
 }
 export default Home;
