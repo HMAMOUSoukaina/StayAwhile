@@ -31,7 +31,9 @@ export default function Navbar() {
           );
         })}
         <li>
-          <button>Sign Up</button>
+          <button >
+          <Link to="/signin" className="signin_button">Sign Up</Link>
+          </button>
         </li>
       </ul>
     </nav>
