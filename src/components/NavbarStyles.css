@@ -1,3 +1,15 @@
+/* Ajoutez une marge supérieure au conteneur principal pour éviter que le titre ne soit caché par la barre de navigation */
+.container-fluid {
+    margin-top: 150px; /* Ajustez la valeur selon vos besoins */
+  }
+  
+  /* Vous pouvez également ajuster la position de la barre de navigation pour laisser de l'espace en haut */
+  .NavbarItems {
+    top: 10px; /* Ajustez la valeur selon vos besoins */
+  }
+  
+
+
 .NavbarItems{
     background-color: #fff;
     display:flex;
@@ -22,6 +34,7 @@ button{
     font-size:1rem;
     font-weight:600;
     cursor:pointer;
+ 
     transition:0.2s ease-in-out;
 }
 button:hover{
