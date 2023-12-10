@@ -1,7 +1,7 @@
 
 
 import "./HeroStyles.css";
-import hero_video from '../images/hero_video.mp4'
+import home_video from '../images/home_video.mp4'
 
 function Hero() {
   return (
@@ -9,7 +9,7 @@ function Hero() {
     <div className="hero">
         <video autoPlay muted loop>
           {}
-          <source src={hero_video} type="video/mp4" />
+          <source src={home_video} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
