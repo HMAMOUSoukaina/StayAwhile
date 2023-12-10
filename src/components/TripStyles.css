@@ -1,4 +1,24 @@
+.button-container {
+    margin-top: 10px; /* Adjust the margin as needed */
+    text-align: left; /* Center the button */
+    position: absolute;
+    bottom: 10px; /* Ajuster la marge au besoin */
+    width: 100%;
+  
+}
+.t-card p {
+    margin-bottom: 70px; /* Ajouter une marge basse pour laisser de l'espace pour le bouton */
+}
 
+.more-details-btn {
+    background-color: #275657; /* Change the background color as needed */
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+ 
+}
 .trip {
     margin: 4rem 6rem;
     color: #2a2a2a;
@@ -15,6 +35,7 @@
 }
 
 .t-card {
+    position: relative;
     width: 32%;
     text-align: start;
     box-shadow: 0 5px 25px 2px rgba(0, 0, 0, 0.11);
@@ -60,4 +81,15 @@
         width:100%;
         margin-bottom: 1.5rem;
     }
+    .button-container {
+        position: relative; /* Retourner à la position relative pour le mode responsive */
+        margin-top: 10px; /* Ajuster au besoin pour l'espacement avec le contenu */
+    }
 }
+
+
+
+
+
+
+

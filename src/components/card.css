@@ -1,0 +1,77 @@
+.container {
+  margin: 20px;
+
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px #787373;
+  transition: transform 0.3s;
+  margin:40px;
+ 
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  border-radius: 10px 10px 0 0;
+}
+
+.card-body {
+  padding: 1.5rem;
+}
+
+.card-title {
+  color: #333;
+}
+
+
+/* Fixe la taille des images */
+.card-img-top img {
+  width: 100%;
+  height: 200px; /* Ajustez la hauteur selon vos besoins */
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+  margin-top:20px;
+}
+
+
+
+.card-description {
+  color: #666;
+  border: 1px solid #ddd; /* Add a border to the card description */
+  padding: 10px; /* Add padding for better visual appearance */
+  text-align: left;
+}
+
+
+/* card.css */
+.map-link {
+  display: block; /* Pour que le lien occupe tout le bloc disponible */
+  margin-top: 10px; /* Ajoutez de l'espace en haut du lien */
+  text-decoration: none; /* Supprime le soulignement par défaut */
+  color: #007bff; /* Couleur du lien (bleu dans cet exemple) */
+  font-weight: bold; /* Police en gras */
+  /* Ajoutez d'autres styles selon vos préférences */
+}
+
+.map-link:hover {
+
+  color: #0056b3; /* Couleur du lien au survol (bleu foncé dans cet exemple) */
+}
+
+.like-save-icons {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 47px;
+  margin-top:15px;
+}
+
+/* Ajoutez des styles supplémentaires au besoin */
+.like-icon,
+.save-icon {
+  margin-left: 10px; /* Ajoute une marge entre les icônes si nécessaire */
+ 
+}
