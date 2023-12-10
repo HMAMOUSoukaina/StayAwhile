@@ -76,7 +76,7 @@ button:hover{
         margin:0;
         transition:0.3s ease-int-out;
         border-radius: 13px;
-       
+
     }
     .nav-menu.active{
         left:0;
@@ -96,9 +96,9 @@ button:hover{
         transition:none;
 
     }
-  
+
     button{
-      display:none;
+    display:none;
     }
     .nav-links-mobile{
         display:block;
