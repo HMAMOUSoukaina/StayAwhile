@@ -1,4 +1,3 @@
-
 import AboutMorocco from '../components/AboutMorocco';
 
 import Footer from '../components/Footer';

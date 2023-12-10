@@ -1,0 +1,18 @@
+/* Modifiez la couleur du fond du bouton */
+.btn-dark {
+    background-color: #036F7B; /* Remplacez "yourColor" par la couleur souhaitée */
+    color: #fff; /* Couleur du texte */
+    padding: 0.5rem 1rem;
+   
+    border-radius: 0.3rem;
+    border: none;
+   
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+  }
+  
+  /* Ajoutez une règle pour la couleur du bouton au survol */
+  .btn-dark:hover {
+    background-color: black; /* Remplacez "yourHoverColor" par la couleur souhaitée au survol */
+    color: #275657; /* Couleur du texte au survol */
+  }
