@@ -1,5 +1,4 @@
 
-
 import "./HeroStyles.css";
 import home_video from '../images/home_video.mp4'
 
