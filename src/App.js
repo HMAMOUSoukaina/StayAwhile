@@ -1,5 +1,4 @@
-
-import { BrowserRouter as  Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router,Routes, Route } from 'react-router-dom';
 import './styles.css'
 //import components
 import Service from './routes/Service'
