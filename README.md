@@ -41,7 +41,7 @@
 
   <hr>
 
-  <p><em>Date de début : novembre 2023<br>Date actuelle : aujourd'hui</em></p>
+  <p><em>Date de début : novembre 2023</p>
 
 </body>
 
