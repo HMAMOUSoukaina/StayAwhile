@@ -38,9 +38,9 @@
   
 
   <h2>Remerciements</h2>
-  <p>Nous tenons à exprimer notre gratitude envers l'Ecole Nationale des Sciences Appliquées d'Oujda pour leur collaboration précieuse et à toute l'équipe de développement pour son engagement exceptionnel.</p>
+  <p>Nous tenons à exprimer notre gratitude à notre école l'Ecole Nationale des Sciences Appliquées d'Oujda et notre professeur Ihababdelbasset Annaki  </p>
 
-  <p>Merci de faire partie de ce voyage passionnant pour promouvoir le tourisme marocain !</p>
+  
 
   <hr>
 
