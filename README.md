@@ -16,7 +16,7 @@
   <ul>
     <li>Promouvoir le Tourisme Marocain.</li>
     <li>Faciliter l'Exploration.</li>
-    <li>Technologies Utilisées : React.js, Laravel, GitHub.</li>
+    <li>Technologies Utilisées : React.js,  GitHub.</li>
   </ul>
 
   <h2>Fonctionnalités Principales</h2>
