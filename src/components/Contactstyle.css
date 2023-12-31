@@ -1,0 +1,14 @@
+.card{
+    background-image: url(../images/contact.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    margin: 0;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+ 
+   
+    object-fit: cover;
+    object-position: center;
+}

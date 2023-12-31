@@ -1,13 +1,17 @@
-import Footer from '../components/Footer';
-import Navbar from '../components/Navbar'
-function Contact(){
+import "../components/Contactstyle.css"
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
+import ContactForm from "../components/ContactForm";
+function Herocontact(){
     return(
         <>
+        <div className="card">
         <Navbar />
-        <h1> This is contact page</h1>
-        <Footer />
+        <ContactForm/>
+        </div>
+        <Footer/>
+         
         </>
-    )
-
+    );
 }
-export default Contact;
+export default Herocontact;
