@@ -5,7 +5,7 @@
 
 <body>
 
-  <h1>Application Web de Source pour le Tourisme Marocain</h1>
+  <h1>Application Web pour le Tourisme Marocain</h1>
 
   <p>Bienvenue dans le projet de l'Application Web de Source pour le Tourisme Marocain, une collaboration passionnante entre l'équipe de développement et l'Ecole Nationale des Sciences Appliquées d'Oujda...</p>
 
