@@ -9,6 +9,9 @@
 
   <p>Bienvenue dans le projet de l'Application Web de Source pour le Tourisme Marocain, une collaboration passionnante entre l'équipe de développement et l'Ecole Nationale des Sciences Appliquées d'Oujda...</p>
 
+  <h2>Découvrez notre Application en Action !</h2>
+  on met la vidéo ici
+
   <h2>Objectifs Principaux</h2>
   <ul>
     <li>Promouvoir le Tourisme Marocain.</li>
