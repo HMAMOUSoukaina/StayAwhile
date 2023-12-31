@@ -19,7 +19,7 @@ function Hero(){
 }
 export default Hero;*/
 import "./HeroStyles.css";
-import hero_video from '../images/hero_video.mp4'
+import hero_video from '../images/home_video.mp4'
 
 function Hero() {
   return (
