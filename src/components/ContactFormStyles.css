@@ -1,0 +1,67 @@
+.from-container {
+    
+
+    backdrop-filter: blur(25px);
+   margin: 4rem 6rem;
+   margin-top: 130px;
+   margin-left: 250px;
+   margin-right: 200px;
+   width: 700px;
+   padding: 2rem; /* Ajout de rembourrage pour l'intérieur de la carte */
+   border-radius: 20px ; /* Coins arrondis pour la carte */
+   border: 3px solid white;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombre douce */
+ }
+ 
+.from-container h1{
+   margin-top: 30px;
+   color: #000000;
+}
+.from-container form{
+   padding-top: 3rem ;
+   display:flex;
+   flex-direction: column;
+   width: 50%;
+   margin: auto;
+   color: #000000;
+}
+.from-container input {
+   color: #000000;
+   border-radius: 20px;
+   height: 3rem;
+   padding: 0 1rem;
+   margin-bottom: 2rem;
+   border: 3px solid #2a2a2a;
+   background-color: transparent; /* Fond transparent */
+}
+
+.from-container textarea {
+   color: #000000;
+   padding: 1rem;
+   margin-bottom: 2rem;
+   border-radius: 20px;
+   border: 3px solid #2a2a2a;
+   background-color: transparent; /* Fond transparent */
+}
+.from-container textarea::placeholder{
+   color: #000000;
+   
+}
+.from-container input::placeholder{
+   color: #000000;
+   
+}
+
+.from-container button{
+   display: inline;
+}
+@media screen and (max-width: 850px)  { 
+   .from-container{
+       margin: 4rem 2rem;
+   }
+   .from-container form{
+       padding-top: 2rem ;
+       width: 90%;
+      
+   }
+}
