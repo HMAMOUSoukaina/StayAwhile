@@ -19,7 +19,7 @@ function SignInPage(){
                 </div>
                 <div className="remember-forgot">
                     <label ><input type="checkbox" />Remember me</label>
-                    <a href="#">Forgot password</a>
+                    <a href="/forgot_pass">Forgot password</a>
                 </div>
                 <button type="submit">Sign in</button>
                 <div className="register-link">
