@@ -18,7 +18,7 @@ function TripX() {
   return (
     <div className="trip">
       <h1 className="recent_trip">Trips:</h1>
-      <p className="map_text">you can discover unique destination using Google Maps</p>
+      <p className="map_text">you can discover your destination:</p>
       <div className="tripcard">
         <TripDataX
           image={chaouen}

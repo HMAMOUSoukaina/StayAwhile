@@ -5,7 +5,7 @@ import ContactForm from "../components/ContactForm";
 function Herocontact(){
     return(
         <>
-        <div className="card">
+        <div className="card1">
         <Navbar />
         <ContactForm/>
         </div>

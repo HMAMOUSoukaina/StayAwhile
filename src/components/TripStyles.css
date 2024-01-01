@@ -85,9 +85,16 @@
         position: relative; /* Retourner à la position relative pour le mode responsive */
         margin-top: 10px; /* Ajuster au besoin pour l'espacement avec le contenu */
     }
+
+    
+}
+.container-fluid{
+    margin-top: 150px;
 }
 
 
+
+  
 
 
 

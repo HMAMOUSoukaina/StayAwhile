@@ -6,6 +6,8 @@ import About from './routes/About'
 import Contact from './routes/Contact'
 import Home from './routes/Home'
 import Sign from './routes/Sign'
+import TripDetails from './routes/TripDetails'
+
 import SignUpPage from './components/SignUpPage'
 function App() {
   return (
@@ -18,6 +20,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/signin" element={<Sign />} />
           <Route path="/signup" element={<SignUpPage/>} />
+          <Route path="/trip/:city" element={<TripDetails/>} />
         </Routes>
     </div>
     

@@ -4,6 +4,7 @@ import { useParams } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import { useState } from "react";
 import { cityData } from "../components/Data";
+import "../components/TripStyles.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Card from "../components/Card"; // Assurez-vous d'importer correctement le composant Card
 import Buttons from '../components/Buttons';
@@ -42,6 +43,7 @@ setItems(newItems)
             
             />
           <Card items={item} /> 
+       
         </div>
       </div>
       <Footer/>
