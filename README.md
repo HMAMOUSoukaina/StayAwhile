@@ -3,8 +3,8 @@
 Bienvenue dans le projet de l'Application Web de Source pour le Tourisme Marocain, une collaboration passionnante entre l'équipe de développement et l'Ecole Nationale des Sciences Appliquées d'Oujda...
 
 ## Découvrez notre application web en action !
-## [ici](https://clipchamp.com/watch/UZldRyqT5aE)
-
+### [Vidéo démonstrative ici](https://clipchamp.com/watch/UZldRyqT5aE)
+### [URL en direct](https://stay-awhile-one.vercel.app/)
 ## Objectifs Principaux
 - Promouvoir le Tourisme Marocain.
 - Faciliter l'Exploration.
