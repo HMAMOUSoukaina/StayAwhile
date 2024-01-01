@@ -32,7 +32,7 @@ Ce projet a été réalisé par
 ``` npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons react-icons bootstrap ```
 ### Exécutez le projet avec npm
 ``` npm start ```
-### Explorez et comprenez le code source pour voir comment chaque algorithme est implémenté
+### Explorez et comprenez le code source pour voir comment le code est implémenté
 
 
 ## Remerciements
