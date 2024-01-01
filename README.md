@@ -23,7 +23,7 @@ Ce projet a été réalisé par
 - Tafellahte Salma
 
 
-## Comment Utiliser le Programme
+## Comment Utiliser notre application 
 ### Clonez ce référentiel sur votre machine locale
 ``` git clone https://github.com/.../... ```
 ### Installez le React router dom
